@@ -34,11 +34,20 @@ provides REST APIs for managing tasks.
 
 ---
 
-## 📂 Project Structure
+## 📌 Learning Outcome
 
-src/main/java/com/taskflow
-├── controller # Handles HTTP requests
-├── service # Business logic
-├── repository # Database access
-├── model # Entity classes
-└── TaskflowApplication.java
+Through this project, I learned:
+
+### Day 1
+- Spring Boot project structure
+- How REST controllers work
+- How to run a backend server
+- How to use Git and GitHub for version control
+
+### Day 2
+- What a database is and why it is needed
+- How Java classes are mapped to database tables using JPA
+- How `@Entity`, `@Id`, and `@GeneratedValue` work
+- How Spring Boot auto-creates tables
+- How to use H2 database and H2 console
+- How to verify data using SQL queries
