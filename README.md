@@ -51,3 +51,13 @@ Through this project, I learned:
 - How Spring Boot auto-creates tables
 - How to use H2 database and H2 console
 - How to verify data using SQL queries
+
+### Day 3
+- What a Repository is and why it is needed
+- How Spring Data JPA provides built-in CRUD methods
+- How to create REST APIs using `@GetMapping`, `@PostMapping`, and `@DeleteMapping`
+- How JSON data sent from a client is converted into a Java object using `@RequestBody`
+- How API requests interact with the database
+- How to insert, fetch, and delete data using HTTP requests
+- How to verify inserted data using the H2 database console
+
