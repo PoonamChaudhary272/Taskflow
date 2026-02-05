@@ -61,3 +61,10 @@ Through this project, I learned:
 - How to insert, fetch, and delete data using HTTP requests
 - How to verify inserted data using the H2 database console
 
+### Day 4
+- Learned why the Service layer is important in Spring Boot applications
+- Understood separation of concerns (Controller, Service, Repository)
+- Moved business logic from Controller to Service
+- Used `@Service` annotation to manage business logic
+- Made controllers cleaner and easier to maintain
+- Understood how real-world backend applications are structured
