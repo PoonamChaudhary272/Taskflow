@@ -68,3 +68,20 @@ Through this project, I learned:
 - Used `@Service` annotation to manage business logic
 - Made controllers cleaner and easier to maintain
 - Understood how real-world backend applications are structured
+
+
+
+## Day 5: Update Task & Error Handling
+
+On Day 5, I implemented the **UPDATE functionality** for tasks and understood how real backend applications handle errors and data consistency.
+
+---
+
+## 🔧 Features Implemented
+
+- Update an existing task using `PUT` request
+- Fetch task before updating to ensure it exists
+- Proper error handling when task ID is not found
+- Clean separation of Controller and Service logic
+
+
