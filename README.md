@@ -8,7 +8,7 @@ provides REST APIs for managing tasks.
 
 ---
 
-## 🚀 Features
+##  Features
 - Create a task
 - Get all tasks
 - Update a task
@@ -17,7 +17,7 @@ provides REST APIs for managing tasks.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Backend
 - Java
@@ -34,7 +34,7 @@ provides REST APIs for managing tasks.
 
 ---
 
-## 📌 Learning Outcome
+##  Learning Outcome
 
 Through this project, I learned:
 
@@ -77,11 +77,17 @@ On Day 5, I implemented the **UPDATE functionality** for tasks and understood ho
 
 ---
 
-## 🔧 Features Implemented
+##  Features Implemented
 
 - Update an existing task using `PUT` request
 - Fetch task before updating to ensure it exists
 - Proper error handling when task ID is not found
 - Clean separation of Controller and Service logic
 
+### Day 6
+- Built React frontend
+- Connected frontend with Spring Boot backend
+- Displayed tasks dynamically
+- Added task creation from UI
+- Understood end-to-end data flow in full-stack apps
 
