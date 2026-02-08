@@ -91,3 +91,9 @@ On Day 5, I implemented the **UPDATE functionality** for tasks and understood ho
 - Added task creation from UI
 - Understood end-to-end data flow in full-stack apps
 
+### Day 7
+- UI polish
+- Toggle & delete functionality
+- Project documentation
+- GitHub showcase
+
