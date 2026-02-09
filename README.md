@@ -89,7 +89,7 @@ On Day 5, I implemented the **UPDATE functionality** for tasks and understood ho
 - Connected frontend with Spring Boot backend
 - Displayed tasks dynamically
 - Added task creation from UI
-- Understood end-to-end data flow in full-stack apps
+- Understood end-to-end data flow in full-stack apps.
 
 ### Day 7
 - UI polish
