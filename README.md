@@ -24,7 +24,7 @@ provides REST APIs for managing tasks.
 - Spring Boot
 - Spring Web
 - Spring Data JPA
-- H2 Database (in-memory)
+- H2 Database (in-memory) ,later MYSQL
 - Lombok
 - Maven
 
