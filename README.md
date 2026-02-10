@@ -1,99 +1,70 @@
-# TaskFlow – Task Management Backend
+# Getting Started with Create React App
 
-TaskFlow is a beginner-friendly full-stack project built to understand how
-backend systems work using Java and Spring Boot.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This repository contains the **backend** part of the application, which
-provides REST APIs for managing tasks.
+## Available Scripts
 
----
+In the project directory, you can run:
 
-##  Features
-- Create a task
-- Get all tasks
-- Update a task
-- Delete a task
-- REST API based architecture
+### `npm start`
 
----
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-## Tech Stack
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-### Backend
-- Java
-- Spring Boot
-- Spring Web
-- Spring Data JPA
-- H2 Database (in-memory) ,later Mysql
-- Lombok
-- Maven
+### `npm test`
 
-### Tools
-- Git & GitHub
-- Postman
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
----
+### `npm run build`
 
-##  Learning Outcome
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-Through this project, I learned:
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-### Day 1
-- Spring Boot project structure
-- How REST controllers work
-- How to run a backend server
-- How to use Git and GitHub for version control
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### Day 2
-- What a database is and why it is needed
-- How Java classes are mapped to database tables using JPA
-- How `@Entity`, `@Id`, and `@GeneratedValue` work
-- How Spring Boot auto-creates tables
-- How to use H2 database and H2 console
-- How to verify data using SQL queries
+### `npm run eject`
 
-### Day 3
-- What a Repository is and why it is needed
-- How Spring Data JPA provides built-in CRUD methods
-- How to create REST APIs using `@GetMapping`, `@PostMapping`, and `@DeleteMapping`
-- How JSON data sent from a client is converted into a Java object using `@RequestBody`
-- How API requests interact with the database
-- How to insert, fetch, and delete data using HTTP requests
-- How to verify inserted data using the H2 database console
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-### Day 4
-- Learned why the Service layer is important in Spring Boot applications
-- Understood separation of concerns (Controller, Service, Repository)
-- Moved business logic from Controller to Service
-- Used `@Service` annotation to manage business logic
-- Made controllers cleaner and easier to maintain
-- Understood how real-world backend applications are structured
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Day 5: Update Task & Error Handling
+## Learn More
 
-On Day 5, I implemented the **UPDATE functionality** for tasks and understood how real backend applications handle errors and data consistency.
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
----
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-##  Features Implemented
+### Code Splitting
 
-- Update an existing task using `PUT` request
-- Fetch task before updating to ensure it exists
-- Proper error handling when task ID is not found
-- Clean separation of Controller and Service logic
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Day 6
-- Built React frontend
-- Connected frontend with Spring Boot backend
-- Displayed tasks dynamically
-- Added task creation from UI
-- Understood end-to-end data flow in full-stack apps.
+### Analyzing the Bundle Size
 
-### Day 7
-- UI polish
-- Toggle & delete functionality
-- Project documentation
-- GitHub showcase
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
