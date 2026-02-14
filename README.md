@@ -26,13 +26,14 @@ This project demonstrates **real-world full-stack development concepts**, proper
 - Spring Boot
 - Spring Web
 - Spring Data JPA
-- H2 In-Memory Database
+- MySQL Database
 - Maven
 
 ### Frontend
 - HTML5
 - CSS3
 - JavaScript (Fetch API)
+- React
 
 
 
