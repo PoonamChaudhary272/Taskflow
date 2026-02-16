@@ -14,9 +14,9 @@ This project demonstrates **real-world full-stack development concepts**, proper
 - ✔️ Mark tasks as completed
 - 🗑️ Delete tasks separately
 - 🎨 Clean and improved UI
-- 🔗 Frontend–Backend integration using REST APIs
+- 🔗 Frontend–Backend integration using REST APIs.
 - 🧠 Clear separation of concerns (Controller, Service, Repository)
-In Future - JWT, External APIs Integration, Deployment in AWS.
+-  In Future - JWT Authentication and Authorization, External APIs Integration, Deployment in AWS.
 ---
 
 ## 🧱 Tech Stack
