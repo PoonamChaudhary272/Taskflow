@@ -1,6 +1,6 @@
 #  TaskFlow – Full Stack Task Manager
 
-TaskFlow is a **full-stack task management application** built using **Java Spring Boot (Backend)** and **HTML, CSS, JavaScript (Frontend)**.  
+TaskFlow is a **full-stack task management application** built using **Java Spring Boot (Backend)** and **React (Frontend)**.  
 It allows users to create, view, complete, and delete daily tasks with a clean UI and RESTful API integration.
 
 This project demonstrates **real-world full-stack development concepts**, proper project structure.
