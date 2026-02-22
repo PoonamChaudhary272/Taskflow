@@ -36,7 +36,7 @@ This project demonstrates **real-world full-stack development concepts**, proper
 - JavaScript (Fetch API)
 - React
 
-Day 1
+## Day 1
 
 Spring Boot project structure
 
@@ -46,7 +46,7 @@ Running backend servers
 
 Git & GitHub basics
 
-Day 2
+## Day 2
 
 Databases and why they are needed
 
@@ -54,19 +54,19 @@ JPA entities and table mapping
 
 H2 database and console usage
 
-Day 3
+## Day 3
 
 Understanding repository layer
 
 How data flows from API → DB
 
-Day 4
+## Day 4
 
 Service layer introduction
 
 Cleaner controller design
 
-Day 5
+## Day 5
 
 Update APIs (PUT)
 
@@ -74,7 +74,7 @@ Handling errors like 405 and 500
 
 Understanding request lifecycle
 
-Day 6
+## Day 6
 
 React basics
 
@@ -82,7 +82,7 @@ Connecting frontend with backend
 
 Fetch API usage
 
-Day 7
+## Day 7
 
 UI polishing
 
