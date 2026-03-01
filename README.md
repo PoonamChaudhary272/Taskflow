@@ -29,6 +29,7 @@ This project demonstrates **real-world full-stack development concepts**, proper
 - MySQL Database
 - Maven
 - JWT
+-In Future- Redis, Kafka , Docker etc.
 
 ### Frontend
 - HTML5
