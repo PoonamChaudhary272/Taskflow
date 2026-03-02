@@ -39,7 +39,7 @@ This project demonstrates **real-world full-stack development concepts**, proper
 
 ## Day 1
 
-Spring Boot project structure
+Spring Boot project structure.
 
 REST controllers
 
