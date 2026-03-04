@@ -32,8 +32,6 @@ This project demonstrates **real-world full-stack development concepts**, proper
 -In Future- Redis, Kafka , Docker  and Deployement.
 
 ### Frontend
-- HTML5
-- CSS3
 - JavaScript (Fetch API)
 - React
 
